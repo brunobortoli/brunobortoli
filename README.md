@@ -7,7 +7,7 @@
 - 😄 Pronouns: he/him 
 
 
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&count_private=true)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true)
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent)
 <div>
