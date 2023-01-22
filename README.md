@@ -6,7 +6,6 @@
 - ☃️ I live in Canada, more precisely in Moncton/NB 🐻
 - 👨🏻‍🎓 I'm an NBCC student (New Brunswick Community College)
 - 😄 Pronouns: he/him 
-- 
 </font>
 
 <div>
