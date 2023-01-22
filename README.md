@@ -11,8 +11,6 @@
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en&border_radius=6.5&title_color=D3D3D3&text_color=D3D3D3&icon_color=BEBEBE&bg_color=0d1117"/>         
 </div>
-[!TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli&layout=compact&theme=dracula)](https://github.com/brunobortoli/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli)](https://github.com/brunobortoli/github-readme-stats)
          
 #### I’m currently learning:
 <div>
