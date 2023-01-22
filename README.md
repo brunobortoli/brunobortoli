@@ -6,8 +6,6 @@
 - 👨🏻‍🎓 I'm an NBCC student (New Brunswick Community College)
 - 😄 Pronouns: he/him 
 
-<span style="color: B22222"> Some green text </span>
-<font color="B22222"> Some green text </font>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
