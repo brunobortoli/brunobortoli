@@ -10,7 +10,7 @@
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent)
 <div>
 <a href="https://github.com/brunobortoli">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent &include_all_commits=true&count_private=true"/>
 </div>
 
 #### I’m currently learning:
