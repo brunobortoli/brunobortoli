@@ -5,7 +5,7 @@
 - ☃️ I live in Canada, more precisely in Moncton/NB 🐻
 - 👨🏻‍🎓 I'm an NBCC student (New Brunswick Community College)
 - 😄 Pronouns: he/him 
-
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli)](https://github.com/brunobortoli/github-readme-stats)
 
 ![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent)
 <div>
