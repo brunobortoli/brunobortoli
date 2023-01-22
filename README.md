@@ -8,7 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli)](https://github.com/brunobortoli/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli&exclude_repo=github-readme-stats,brunobortoli.github.io)](https://github.com/brunobortoli/github-readme-stats)
 <div>
 <a href="https://github.com/brunobortoli">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli&layout=compact&langs_count=7&theme=dracula"/>
