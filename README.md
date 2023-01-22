@@ -6,6 +6,15 @@
 - 👨🏻‍🎓 I'm an NBCC student (New Brunswick Community College)
 - 😄 Pronouns: he/him 
 
+
+<a href="https://github.com/brunobortoli/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobortoli&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/brunobortoli/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brunobortoli&repo=convoychat" />
+</a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=transparent)
 <div>
 <a href="https://github.com/brunobortoli">
