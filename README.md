@@ -1,3 +1,4 @@
+<font color="green">
 👋 Hello! Welcome to my GitHub profile.
 
 ## My name is Bruno Bortoli 👨🏻‍💻
@@ -5,7 +6,8 @@
 - ☃️ I live in Canada, more precisely in Moncton/NB 🐻
 - 👨🏻‍🎓 I'm an NBCC student (New Brunswick Community College)
 - 😄 Pronouns: he/him 
-<p>Testando cor</p>
+- 
+</font>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
