@@ -9,7 +9,8 @@
 
 <div>
 <a href="https://github.com/brunobortoli">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunobortoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en&border_radius=6.5&title_color=D3D3D3&text_color=D3D3D3&icon_color=BEBEBE&bg_color=66000000"/>         
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunobortoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en&border_radius=6.5&title_color=D3D3D3&text_color=D3D3D3&icon_color=BEBEBE&bg_color=66000000"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunobortoli&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en&border_radius=6.5&title_color=D3D3D3&text_color=D3D3D3&icon_color=BEBEBE&bg_color=66000000"/>
 </div>
          
 #### I’m currently learning:
