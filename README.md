@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Bruno%20Bortoli&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=NBCC%20Student%20%7C%20Learning%20by%20Building&descAlignY=60&descColor=8b949e)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Bruno%20Bortoli&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=NBCC%20Graduate%20%7C%20Learning%20by%20Building&descAlignY=60&descColor=8b949e)
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👋 Hi there! I'm Bruno Bortoli
 
-🇨🇦 Moncton, NB, Canada &nbsp;•&nbsp; 🎓 NBCC — Gaming Experience Development &nbsp;•&nbsp; 🌱 Always learning
+🇨🇦 Dieppe, NB, Canada &nbsp;•&nbsp; 🎓 NBCC Graduate — Gaming Experience Development &nbsp;•&nbsp; 🌱 Always learning
 
 [![Website](https://img.shields.io/badge/oxecode.ca-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://oxecode.ca)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brunobortoli)
@@ -23,16 +23,16 @@
 
 ## 🙋 About Me
 
-I'm a **Gaming Experience Development** student at NBCC, living in Moncton, Canada. I don't have professional experience yet, but I love learning by building real projects — and that's exactly what I'm doing!
+I'm a **Gaming Experience Development** graduate from NBCC, living in Dieppe, Canada. I don't have professional experience yet, but I love learning by building real projects — and that's exactly what I'm doing!
 
 - 🎮 Background in game development (C++, C#)
 - 🌐 Exploring web development on my own
-- 🔨 Currently building my first personal project: **[OxeCode](https://oxecode.ca)**
+- 🔨 Currently building **Dealer Portal** at **[oxecode.ca](https://oxecode.ca)**
 - 🤓 Pronouns: he/him
 
 ---
 
-## 🔨 What I'm Building — OxeCode
+## 🔨 What I'm Building — Dealer Portal
 
 My first big personal project where I'm learning a modern web stack hands-on:
 
