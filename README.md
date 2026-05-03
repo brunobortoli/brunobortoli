@@ -68,7 +68,7 @@ My first big personal project where I'm learning a modern web stack hands-on:
 ### 🌱 Currently Exploring
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logocolo=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -80,15 +80,12 @@ My first big personal project where I'm learning a modern web stack hands-on:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunobortoli&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunobortoli&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunobortoli&theme=github_dark" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunobortoli&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunobortoli&theme=github_dark" />
 
 </div>
 
